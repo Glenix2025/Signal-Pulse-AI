@@ -5,7 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-    base: './',
+    base: '/Signal-Pulse-AI/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
