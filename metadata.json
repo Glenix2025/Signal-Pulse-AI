@@ -1,0 +1,7 @@
+{
+  "name": "SignalPulse AI - B2B Intent & Lead Intelligence Agent",
+  "description": "AI-powered B2B intent signal detector and SDR outreach copy generator with real-time web grounding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
